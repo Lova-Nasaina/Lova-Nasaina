@@ -1,9 +1,5 @@
 
 <h1 align="center"> Hi everyone ! 👋 I'm Lova Nasaina</h1>
-<!--
-**Lova-Nasaina/Lova-Nasaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <h2 align="center">About Me</h2>
 <p align="center">web developer | Software Engineer | Data Scientist </p>
 
