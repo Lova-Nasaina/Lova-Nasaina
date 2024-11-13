@@ -57,8 +57,8 @@
   </a>
 </p> -->
 
-![Lova-Nasaina GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Lova-Nasaina&show_icons=true&theme=blue-dark)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lova-Nasaina&show_icons=true&theme=algolia&locale=en&layout=compact&count_private=true" alt="Lova-Nasaina" /></p>
+![Lova-Nasaina GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Lova-Nasaina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Lova-Nasaina&show_icons=true&theme=algolia&locale=en&layout=compact&count_private=true" alt="Lova-Nasaina" /></p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lova-Nasaina&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007&include_all_commits=true&count_private=true"/></p>
 
