@@ -77,8 +77,8 @@ Disponible pour des opportunités professionnelles et des collaborations techniq
 </p>
 
 <p align="center">
-<a href="mailto:votre-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/votre-profil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:lovanasainansn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lova-nasaina-rakotondrambola-61264731a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Lova-Nasaina"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
